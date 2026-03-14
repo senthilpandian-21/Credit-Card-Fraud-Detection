@@ -1,0 +1,6 @@
+Saved Models:
+Isolation Forest: saved_models\isolation_forest_model.joblib
+Local Outlier Factor: saved_models\local_outlier_factor_model.joblib
+One-Class SVM: saved_models\one-class_svm_model.joblib
+
+Note: Use joblib.load() to reload models for inference.
